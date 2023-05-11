@@ -1,5 +1,5 @@
-# multi_corr
-multi_corr helps to identify multicollinearity in a simple and straight manner.
+<h1>multi_corr</h1>
+<p>To identify multicollinearity in a simple and straight manner.</p>
 
 Input
 1. DataFrame with target feature in case of regression
